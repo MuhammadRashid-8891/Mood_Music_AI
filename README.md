@@ -140,5 +140,4 @@ We utilize a dataset of Spotify tracks that includes specific audio feature metr
 *   **App not opening**:
     *   Check your terminal for errors. Ensure you are in the correct directory.
 
----
-**Created for AI Course Certificate Submission**
+
