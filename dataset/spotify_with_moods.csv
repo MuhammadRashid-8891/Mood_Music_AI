@@ -1,0 +1,97 @@
+track_name,artist_name,energy,valence,tempo,cluster,mood
+Happy,Pharrell Williams,0.8,0.9,160,1,Happy
+Walking on Sunshine,Katrina & The Waves,0.9,0.9,110,1,Happy
+Uptown Funk,Mark Ronson,0.9,0.9,115,1,Happy
+Can't Stop the Feeling!,Justin Timberlake,0.8,0.9,113,1,Happy
+Shake It Off,Taylor Swift,0.8,0.9,160,1,Happy
+Roar,Katy Perry,0.8,0.7,180,1,Happy
+Sugar,Maroon 5,0.8,0.9,120,1,Happy
+Dancing Queen,ABBA,0.7,0.9,100,1,Happy
+Despacito,Luis Fonsi,0.8,0.8,89,1,Happy
+Girls Just Want to Have Fun,Cyndi Lauper,0.8,0.9,120,1,Happy
+I Gotta Feeling,The Black Eyed Peas,0.9,0.9,128,1,Happy
+Wake Me Up,Avicii,0.8,0.6,124,1,Happy
+Cheap Thrills,Sia,0.7,0.8,90,1,Happy
+Hey Jude,The Beatles,0.6,0.7,74,1,Happy
+Titanium,David Guetta,0.8,0.55,126,2,Energetic
+Senorita,Shawn Mendes,0.7,0.7,117,1,Happy
+Sunflower,Post Malone,0.6,0.7,90,1,Happy
+Dance Monkey,Tones and I,0.7,0.8,98,1,Happy
+Watermelon Sugar,Harry Styles,0.6,0.8,95,1,Happy
+Levitating,Dua Lipa,0.8,0.8,103,1,Happy
+Butter,BTS,0.8,0.9,110,1,Happy
+Shivers,Ed Sheeran,0.8,0.8,141,1,Happy
+Cold Heart,Elton John,0.7,0.8,116,1,Happy
+As It Was,Harry Styles,0.8,0.7,174,1,Happy
+About Damn Time,Lizzo,0.8,0.8,109,1,Happy
+Someone Like You,Adele,0.3,0.2,135,3,Sad
+All of Me,John Legend,0.2,0.3,88,3,Sad
+Fix You,Coldplay,0.4,0.2,138,3,Sad
+Imagine,John Lennon,0.2,0.4,76,3,Sad
+Yesterday,The Beatles,0.1,0.3,97,3,Sad
+Hurt,Johnny Cash,0.2,0.1,95,3,Sad
+River Flows in You,Yiruma,0.2,0.3,145,3,Sad
+Stay With Me,Sam Smith,0.3,0.3,84,3,Sad
+Hello,Adele,0.4,0.3,79,3,Sad
+Take Me to Church,Hozier,0.5,0.4,129,3,Sad
+Perfect,Ed Sheeran,0.4,0.4,95,3,Sad
+The Sound of Silence,Simon & Garfunkel,0.2,0.2,106,3,Sad
+Hallelujah,Jeff Buckley,0.2,0.3,88,3,Sad
+Chandelier,Sia,0.4,0.3,117,3,Sad
+Love Yourself,Justin Bieber,0.4,0.4,100,3,Sad
+Shallow,Lady Gaga & Bradley Cooper,0.4,0.3,96,3,Sad
+Bad Guy,Billie Eilish,0.4,0.3,135,3,Sad
+Drivers License,Olivia Rodrigo,0.4,0.3,144,3,Sad
+Easy On Me,Adele,0.3,0.3,142,3,Sad
+Running Up That Hill,Kate Bush,0.4,0.4,108,3,Sad
+Anti-Hero,Taylor Swift,0.4,0.4,97,3,Sad
+Glimpse of Us,Joji,0.2,0.2,170,3,Sad
+Hold My Hand,Lady Gaga,0.3,0.4,98,3,Sad
+Eye of the Tiger,Survivor,0.9,0.4,109,2,Energetic
+Thunderstruck,AC/DC,0.95,0.4,134,2,Energetic
+Seven Nation Army,The White Stripes,0.8,0.4,124,2,Energetic
+Lose Yourself,Eminem,0.9,0.4,171,2,Energetic
+Smells Like Teen Spirit,Nirvana,0.9,0.3,117,2,Energetic
+Bonfire,Childish Gambino,0.9,0.4,120,2,Energetic
+Till I Collapse,Eminem,0.9,0.4,170,2,Energetic
+Stronger,Kanye West,0.9,0.4,104,2,Energetic
+Power,Kanye West,0.9,0.4,140,2,Energetic
+Black Skinhead,Kanye West,0.95,0.3,130,2,Energetic
+Humble,Kendrick Lamar,0.8,0.4,150,2,Energetic
+DNA,Kendrick Lamar,0.9,0.4,140,2,Energetic
+X Gon' Give It To Ya,DMX,0.9,0.4,95,2,Energetic
+In Da Club,50 Cent,0.8,0.4,90,2,Energetic
+Numb/Encore,Jay-Z,0.8,0.4,107,2,Energetic
+Remember the Name,Fort Minor,0.9,0.4,85,2,Energetic
+Enter Sandman,Metallica,0.9,0.4,123,2,Energetic
+Master of Puppets,Metallica,0.95,0.3,212,2,Energetic
+Back in Black,AC/DC,0.8,0.4,188,2,Energetic
+Highway to Hell,AC/DC,0.9,0.4,116,2,Energetic
+Bring Me To Life,Evanescence,0.8,0.3,95,2,Energetic
+Chop Suey!,System Of A Down,0.9,0.4,127,2,Energetic
+Duality,Slipknot,0.95,0.3,145,2,Energetic
+Psychosocial,Slipknot,0.9,0.4,135,2,Energetic
+Weightless,Marconi Union,0.1,0.6,60,0,Calm
+Clair de Lune,Claude Debussy,0.05,0.6,68,0,Calm
+Rainbow,Kacey Musgraves,0.2,0.6,72,0,Calm
+Slow Burn,Kacey Musgraves,0.3,0.6,60,0,Calm
+Butterflies,Kacey Musgraves,0.4,0.7,98,0,Calm
+Banana Pancakes,Jack Johnson,0.4,0.8,110,0,Calm
+Better Together,Jack Johnson,0.4,0.7,100,0,Calm
+Upside Down,Jack Johnson,0.4,0.8,100,0,Calm
+Put Your Records On,Corinne Bailey Rae,0.4,0.8,96,0,Calm
+Sunday Morning,Maroon 5,0.4,0.7,88,0,Calm
+Come Away With Me,Norah Jones,0.2,0.6,80,0,Calm
+Don't Know Why,Norah Jones,0.3,0.6,88,0,Calm
+Sunrise,Norah Jones,0.3,0.7,100,0,Calm
+Three Little Birds,Bob Marley,0.4,0.8,74,0,Calm
+Is This Love,Bob Marley,0.4,0.7,100,0,Calm
+Here Comes The Sun,The Beatles,0.4,0.8,129,0,Calm
+Blackbird,The Beatles,0.3,0.6,94,0,Calm
+What a Wonderful World,Louis Armstrong,0.2,0.7,60,0,Calm
+Over the Rainbow,Israel Kamakawiwo'ole,0.3,0.8,85,0,Calm
+Landslide,Fleetwood Mac,0.3,0.6,150,0,Calm
+Skinny Love,Bon Iver,0.2,0.5,76,0,Calm
+Ho Hey,The Lumineers,0.4,0.7,80,0,Calm
+Riptide,Vance Joy,0.4,0.7,100,0,Calm
+Budapest,George Ezra,0.4,0.7,128,0,Calm

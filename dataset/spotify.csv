@@ -1,0 +1,97 @@
+track_name,artist_name,energy,valence,tempo
+Happy,Pharrell Williams,0.8,0.9,160
+Walking on Sunshine,Katrina & The Waves,0.9,0.9,110
+Uptown Funk,Mark Ronson,0.9,0.9,115
+Can't Stop the Feeling!,Justin Timberlake,0.8,0.9,113
+Shake It Off,Taylor Swift,0.8,0.9,160
+Roar,Katy Perry,0.8,0.7,180
+Sugar,Maroon 5,0.8,0.9,120
+Dancing Queen,ABBA,0.7,0.9,100
+Despacito,Luis Fonsi,0.8,0.8,89
+Girls Just Want to Have Fun,Cyndi Lauper,0.8,0.9,120
+I Gotta Feeling,The Black Eyed Peas,0.9,0.9,128
+Wake Me Up,Avicii,0.8,0.6,124
+Cheap Thrills,Sia,0.7,0.8,90
+Hey Jude,The Beatles,0.6,0.7,74
+Titanium,David Guetta,0.8,0.55,126
+Senorita,Shawn Mendes,0.7,0.7,117
+Sunflower,Post Malone,0.6,0.7,90
+Dance Monkey,Tones and I,0.7,0.8,98
+Watermelon Sugar,Harry Styles,0.6,0.8,95
+Levitating,Dua Lipa,0.8,0.8,103
+Butter,BTS,0.8,0.9,110
+Shivers,Ed Sheeran,0.8,0.8,141
+Cold Heart,Elton John,0.7,0.8,116
+As It Was,Harry Styles,0.8,0.7,174
+About Damn Time,Lizzo,0.8,0.8,109
+Someone Like You,Adele,0.3,0.2,135
+All of Me,John Legend,0.2,0.3,88
+Fix You,Coldplay,0.4,0.2,138
+Imagine,John Lennon,0.2,0.4,76
+Yesterday,The Beatles,0.1,0.3,97
+Hurt,Johnny Cash,0.2,0.1,95
+River Flows in You,Yiruma,0.2,0.3,145
+Stay With Me,Sam Smith,0.3,0.3,84
+Hello,Adele,0.4,0.3,79
+Take Me to Church,Hozier,0.5,0.4,129
+Perfect,Ed Sheeran,0.4,0.4,95
+The Sound of Silence,Simon & Garfunkel,0.2,0.2,106
+Hallelujah,Jeff Buckley,0.2,0.3,88
+Chandelier,Sia,0.4,0.3,117
+Love Yourself,Justin Bieber,0.4,0.4,100
+Shallow,Lady Gaga & Bradley Cooper,0.4,0.3,96
+Bad Guy,Billie Eilish,0.4,0.3,135
+Drivers License,Olivia Rodrigo,0.4,0.3,144
+Easy On Me,Adele,0.3,0.3,142
+Running Up That Hill,Kate Bush,0.4,0.4,108
+Anti-Hero,Taylor Swift,0.4,0.4,97
+Glimpse of Us,Joji,0.2,0.2,170
+Hold My Hand,Lady Gaga,0.3,0.4,98
+Eye of the Tiger,Survivor,0.9,0.4,109
+Thunderstruck,AC/DC,0.95,0.4,134
+Seven Nation Army,The White Stripes,0.8,0.4,124
+Lose Yourself,Eminem,0.9,0.4,171
+Smells Like Teen Spirit,Nirvana,0.9,0.3,117
+Bonfire,Childish Gambino,0.9,0.4,120
+Till I Collapse,Eminem,0.9,0.4,170
+Stronger,Kanye West,0.9,0.4,104
+Power,Kanye West,0.9,0.4,140
+Black Skinhead,Kanye West,0.95,0.3,130
+Humble,Kendrick Lamar,0.8,0.4,150
+DNA,Kendrick Lamar,0.9,0.4,140
+X Gon' Give It To Ya,DMX,0.9,0.4,95
+In Da Club,50 Cent,0.8,0.4,90
+Numb/Encore,Jay-Z,0.8,0.4,107
+Remember the Name,Fort Minor,0.9,0.4,85
+Enter Sandman,Metallica,0.9,0.4,123
+Master of Puppets,Metallica,0.95,0.3,212
+Back in Black,AC/DC,0.8,0.4,188
+Highway to Hell,AC/DC,0.9,0.4,116
+Bring Me To Life,Evanescence,0.8,0.3,95
+Chop Suey!,System Of A Down,0.9,0.4,127
+Duality,Slipknot,0.95,0.3,145
+Psychosocial,Slipknot,0.9,0.4,135
+Weightless,Marconi Union,0.1,0.6,60
+Clair de Lune,Claude Debussy,0.05,0.6,68
+Rainbow,Kacey Musgraves,0.2,0.6,72
+Slow Burn,Kacey Musgraves,0.3,0.6,60
+Butterflies,Kacey Musgraves,0.4,0.7,98
+Banana Pancakes,Jack Johnson,0.4,0.8,110
+Better Together,Jack Johnson,0.4,0.7,100
+Upside Down,Jack Johnson,0.4,0.8,100
+Put Your Records On,Corinne Bailey Rae,0.4,0.8,96
+Sunday Morning,Maroon 5,0.4,0.7,88
+Come Away With Me,Norah Jones,0.2,0.6,80
+Don't Know Why,Norah Jones,0.3,0.6,88
+Sunrise,Norah Jones,0.3,0.7,100
+Three Little Birds,Bob Marley,0.4,0.8,74
+Is This Love,Bob Marley,0.4,0.7,100
+Here Comes The Sun,The Beatles,0.4,0.8,129
+Blackbird,The Beatles,0.3,0.6,94
+What a Wonderful World,Louis Armstrong,0.2,0.7,60
+Over the Rainbow,Israel Kamakawiwo'ole,0.3,0.8,85
+Landslide,Fleetwood Mac,0.3,0.6,150
+Skinny Love,Bon Iver,0.2,0.5,76
+Ho Hey,The Lumineers,0.4,0.7,80
+Riptide,Vance Joy,0.4,0.7,100
+Budapest,George Ezra,0.4,0.7,128
